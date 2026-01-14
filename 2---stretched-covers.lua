@@ -3,7 +3,7 @@
 
 -- stylua: ignore start
 --========================== Edit your preferences here ======================================================
-local aspect_ratio = 2 / 3          -- width / height
+local aspect_ratio = 3 / 4          -- width / height
 local stretch_limit_percentage = 50 -- Max percentage to stretch beyond original size
 local fill = false                  -- if true, covers will fit the full grid cell
 --============================================================================================================
